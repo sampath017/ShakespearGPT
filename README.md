@@ -1,2 +1,3 @@
 # GenChars
-Code to generate characters with context of training data (inspired from https://youtu.be/TCH_1BHY58I)
+
+An autoregressive character-level language model for making more things (inspired from https://github.com/karpathy/makemore)

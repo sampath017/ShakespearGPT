@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "genchars"
+version = "0.1.0"
+description = ""
+authors = [""]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.25.1"
+researchai = {git = "https://github.com/sampath017/researchai.git"}
+
+[tool.poetry.group.dev.dependencies]
+matplotlib = "^3.7.2"
+jupyter = "^1.0.0"
+notebook = "^6.5.4"
+autopep8 = "^2.0.2"
+pytest = "^7.4.0"
+pandas = "^2.0.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

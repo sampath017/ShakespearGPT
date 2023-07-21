@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.10"
 numpy = "^1.25.1"
 researchai = {git = "https://github.com/sampath017/researchai.git"}
+torch = "^2.0.1"
+torchsummary = "^1.5.1"
 
 [tool.poetry.group.dev.dependencies]
 matplotlib = "^3.7.2"

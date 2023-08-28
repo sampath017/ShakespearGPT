@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "genchars"
+name = "ShakespearGPT"
 version = "0.1.0"
 description = ""
 authors = ["sampath <sampathkovvali@gmail.com>"]
